@@ -4,10 +4,10 @@
     <title>Panela de pau</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/webjekyll/</link>
-    <atom:link href="http://yourdomain.com/webjekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Jul 2016 19:05:54 -0300</pubDate>
-    <lastBuildDate>Mon, 25 Jul 2016 19:05:54 -0300</lastBuildDate>
+    <link>http://yourdomain.com/webjekyll//</link>
+    <atom:link href="http://yourdomain.com/webjekyll//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 25 Jul 2016 19:30:26 -0300</pubDate>
+    <lastBuildDate>Mon, 25 Jul 2016 19:30:26 -0300</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -48,8 +48,8 @@ vegano que é bem saboroso e mais nutritivo que um bolo comum :)&lt;/p&gt;
 &lt;p&gt;Tags: doces e sobremesas, paes e bolos, lanches, cozinha saudavel&lt;/p&gt;
 </description>
         <pubDate>Sun, 24 Jul 2016 00:00:00 -0300</pubDate>
-        <link>http://yourdomain.com/webjekyll/jekyll/update/2016/07/24/bolo-vegano-de-chocolate.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/webjekyll/jekyll/update/2016/07/24/bolo-vegano-de-chocolate.html</guid>
+        <link>http://yourdomain.com/webjekyll//jekyll/update/2016/07/24/bolo-vegano-de-chocolate.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/webjekyll//jekyll/update/2016/07/24/bolo-vegano-de-chocolate.html</guid>
         
         
         <category>jekyll</category>
@@ -74,7 +74,7 @@ vegano que é bem saboroso e mais nutritivo que um bolo comum :)&lt;/p&gt;
 	&lt;li&gt;Folhas de orégano&lt;/li&gt;
 	&lt;li&gt;4 xícaras (chá) de água fervente&lt;/li&gt;
 	&lt;li&gt;1 cebola em pedaços grandes&lt;/li&gt;
-	###Demais ingredientes para a montagem:
+###Demais ingredientes para a montagem:
 	&lt;li&gt;3 pães de hambúrguer&lt;/li&gt;
 	&lt;li&gt;Palta (veja a receita &lt;a href=&quot;https://www.instagram.com/p/BGR1KbWmu8A/?taken-by=paneladepau&quot;&gt;clicando aqui&lt;/a&gt;)&lt;/li&gt;
 	&lt;li&gt;Maionese caseira (aquela tradicional feita à base de ovos, óleo e vinagre/limão)&lt;/li&gt;
@@ -98,8 +98,8 @@ vegano que é bem saboroso e mais nutritivo que um bolo comum :)&lt;/p&gt;
 &lt;p&gt;Tags: lanches, especiais&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 Jul 2016 00:00:00 -0300</pubDate>
-        <link>http://yourdomain.com/webjekyll/jekyll/update/2016/07/23/lomito-italiano.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/webjekyll/jekyll/update/2016/07/23/lomito-italiano.html</guid>
+        <link>http://yourdomain.com/webjekyll//jekyll/update/2016/07/23/lomito-italiano.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/webjekyll//jekyll/update/2016/07/23/lomito-italiano.html</guid>
         
         
         <category>jekyll</category>
